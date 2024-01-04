@@ -2,10 +2,10 @@
 ![google_logo](image/google-play-badge.png)
 
 **Authors and Contact Information:** 
+- [Goknur Kaya](https://github.com/GoknurK) - 
+- [Linkedin](https://www.linkedin.com/in/goknurk/) (Email: goknurkaya@gmail.com)
 
-[Goknur Kaya](https://github.com/GoknurK) - 
-[Linkedin](https://www.linkedin.com/in/goknurk/) (Email: goknurkaya@gmail.com)
-
+Jan 4, 2024
 
 ## Overview
 This project addresses the development of a new app owned and managed by a big multinational corporation. The project is sponsored by the Business Intelligence & Data Science (BIDS) division of the company. As a new app that has received significant investment, senior management is particularly interested in the relationship between user ratings and intrinsics such as pricing, downloads, etc. The development team is slated to work in close collaboration with the data team to drive development towards a successful end product which combines key app rating factors with current in-house development standards and beliefs.
@@ -44,7 +44,7 @@ In the analysis of ad-supported versus non-ad-supported apps, the graph illustra
 
 ## Modeling
 
-We implemented five models—KNN, XGBoost (XGBC), Support Vector Machine (SVM), Random Forest, and Logistic Regression. Out of these, XGBoost emerged as the top performer with an accuracy score of 56% and an impressive recall rating of 98%. Upon analyzing feature importance, we discovered that app name, category, installs, and ad supported were the most influential factors on ratings. Other features did not exhibit a strong impact. The presented confusion matrix for the XGBoost Classifier reveals a noteworthy trend: our model largely predicted high ratings, underscoring the limited occurrence of medium and low ratings within the dataset.
+We implemented five models—KNN, XGBoost (XGBC), Support Vector Machine (SVM), and Logistic Regression. Out of these, XGBoost emerged as the top performer with an accuracy score of 56% and an impressive recall rating of 98%. Upon analyzing feature importance, we discovered that app name, category, installs, and ad supported were the most influential factors on ratings. Other features did not exhibit a strong impact. The presented confusion matrix for the XGBoost Classifier reveals a noteworthy trend: our model largely predicted high ratings, underscoring the limited occurrence of medium and low ratings within the dataset.
 
 ![XG Boost](image/xg_boost.png)
 

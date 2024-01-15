@@ -80,11 +80,11 @@ Analyze user preferences for specific categories and pricing models.
 
 - [Google Play Store Statistics](https://appinventiv.com/blog/google-play-store-statistics/)
 
-- [Google PLay Store Background](https://en.wikipedia.org/wiki/Google_Play#:~:text=Google%20Play%20was%20launched%20on,for%20each%20of%20the%20services.)
+- [Google Play Store Background](https://en.wikipedia.org/wiki/Google_Play#:~:text=Google%20Play%20was%20launched%20on,for%20each%20of%20the%20services.)
 
 ## For More Information 
 
-Please visit our full analysis in our [Jupyter Notebook](Google_Play_Store_App_Rating_Models_Predictions.ipynb), [Slide Presentation](Google Play Store App Rating Models and Predictions Presentation.pdf).
+Please visit our full analysis in our [Jupyter Notebook](Google_Play_Store_App_Rating_Models_Predictions.ipynb).
 
 ## Repository Structure
 

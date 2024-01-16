@@ -101,5 +101,3 @@ You are in the README.md. 'Google_Play_Store_App_Rating_Models_Predictions.ipynb
 ├── google_playstore_app_rating_prediction_presentation.pdf    <- Slide Presentation of the project
 
 ├── README.md                                                  <- Contains README file consisting summary of the project
-
-└── Google_Play_Store_App_Rating_Models_Predictions.ipynb      <- Jupyter notebook of the project containing codes and analysis

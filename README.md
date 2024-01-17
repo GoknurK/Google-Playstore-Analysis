@@ -84,7 +84,7 @@ Analyze user preferences for specific categories and pricing models.
 
 ## For More Information 
 
-Please visit our full analysis in our [Jupyter Notebook](Google_Play_Store_App_Rating_Models_Predictions.ipynb), [Slide Presentation](Google_Play_Store_App_Rating_Models_Predictions.pdf).
+Please visit our full analysis in our [Jupyter Notebook](Google_Play_Store_App_Rating_Models_Predictions.ipynb), [Slide Presentation](Google_Play_Store_App_Rating_Models_Predictions.pdf) and watch my [Live Project Presentation](https://youtu.be/zHmiaOL8Hqo?list=PLc6AmvC5ZybwRhxr-2q5XSvmw-7fcEAky&t=1537).
 
 ## Repository Structure
 

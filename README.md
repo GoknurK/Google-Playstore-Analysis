@@ -84,21 +84,22 @@ Analyze user preferences for specific categories and pricing models.
 
 ## For More Information 
 
-Please visit our full analysis in our [Jupyter Notebook](Google_Play_Store_App_Rating_Models_Predictions.ipynb), [Slide Presentation](Google_Play_Store_App_Rating_Models_Predictions.pdf).
+Please visit our full analysis in our [Jupyter Notebook](Google_Play_Store_App_Rating_Models_Predictions.ipynb) and [Slide Presentation](Google_Play_Store_App_Rating_Models_Predictions_Presentation.pdf).
 ## Repository Structure
 
-You are in the README.md. 'Google_Play_Store_App_Rating_Models_Predictions.ipynb' contains the jupyter notebook that explains our data science steps for you to replicate. 'google_playstore_app_rating_prediction_presentation.pdf' contains our presentation slides that sums up important information for our audience. In 'Data' you will be able to see the datasets we worked with. Likewise, 'image' will contain images used.
+You are in the README.md. 'Google_Play_Store_App_Rating_Models_Predictions.ipynb  ' contains the jupyter notebook that explains our data science steps for you to replicate. 'Google_Play_Store_App_Rating_Models_Predictions._Presentation.pdf ' contains our presentation slides that sums up important information for our audience. In 'Data' you will be able to see the datasets we worked with. Likewise, 'image' will contain images used.
 
 ```bash
 
-├── data                                                       <- Folder consisting dataset used in this project
+├── data                                                                             <- Folder consisting dataset used in this project
 
-├── image                                                      <- Folder consisting images used in this project
+├── image                                                                            <- Folder consisting images used in this project
 
-├── .gitignore                                                 <- Contains list of files ignored from GitHub
+├── .gitignore                                                                       <- Contains list of files ignored from GitHub
 
-├── Google_Play_Store_App_Rating_Models_Predictions._Presentation.pdf    <- Slide Presentation of the project
+├── Google_Play_Store_App_Rating_Models_Predictions._Presentation.pdf                <- Slide Presentation of the project
 
-├── Google_Play_Store_App_Rating_Models_Predictions.ipynb    <- Notebook of the project
+├── Google_Play_Store_App_Rating_Models_Predictions.ipynb                            <- Notebook of the project
 
-├── README.md                                                  <- Contains README file consisting summary of the project
+├── README.md                                                                        <- Contains README file consisting summary of the project
+ 

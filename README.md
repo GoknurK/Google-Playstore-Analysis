@@ -33,7 +33,7 @@ Google is one of the most impactful tech companies today. Google Play Store, the
 
 The kernel density plot indicates that a significant portion of Google Play Store ratings tends to be on the higher side.
 
-![Installs vs Category](image/top_20_categories_by_total_installs.jpeg)
+![Installs vs Category](image/top_5_categories_by_total_installs.jpeg)
 
 Examining the total installs across categories, tools, action, casual, and arcade emerge as the most installed categories, respectively.
 
@@ -84,8 +84,7 @@ Analyze user preferences for specific categories and pricing models.
 
 ## For More Information 
 
-Please visit our full analysis in our [Jupyter Notebook](Google_Play_Store_App_Rating_Models_Predictions.ipynb), [Slide Presentation](Google_Play_Store_App_Rating_Models_Predictions.pdf) and watch my [Live Project Presentation](https://youtu.be/zHmiaOL8Hqo?list=PLc6AmvC5ZybwRhxr-2q5XSvmw-7fcEAky&t=1537).
-
+Please visit our full analysis in our [Jupyter Notebook](Google_Play_Store_App_Rating_Models_Predictions.ipynb), [Slide Presentation](Google_Play_Store_App_Rating_Models_Predictions.pdf).
 ## Repository Structure
 
 You are in the README.md. 'Google_Play_Store_App_Rating_Models_Predictions.ipynb' contains the jupyter notebook that explains our data science steps for you to replicate. 'google_playstore_app_rating_prediction_presentation.pdf' contains our presentation slides that sums up important information for our audience. In 'Data' you will be able to see the datasets we worked with. Likewise, 'image' will contain images used.
@@ -98,6 +97,8 @@ You are in the README.md. 'Google_Play_Store_App_Rating_Models_Predictions.ipynb
 
 ├── .gitignore                                                 <- Contains list of files ignored from GitHub
 
-├── google_playstore_app_rating_prediction_presentation.pdf    <- Slide Presentation of the project
+├── Google_Play_Store_App_Rating_Models_Predictions._Presentation.pdf    <- Slide Presentation of the project
+
+├── Google_Play_Store_App_Rating_Models_Predictions.ipynb    <- Notebook of the project
 
 ├── README.md                                                  <- Contains README file consisting summary of the project
